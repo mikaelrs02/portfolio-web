@@ -1,0 +1,23 @@
+header{
+    border: solid;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    // background: linear-gradient(90deg, #001B2F 0%, #005695 100%);
+
+}
+.boxMenu{
+
+    width: 60vw;
+    ul{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 20px;
+        a{
+            color: white;
+        }
+    }
+}
+
